@@ -9,4 +9,4 @@ rushabh-github/rushabh-github is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-There are some more private repos where I have python scripts and bash scripts (for certain automation) but they are purely for cryptos derivatives and nifty derivatives(OI chain handlers). Mail me if you know more.
+There are some more private repos where I have python scripts and bash scripts (for certain automation) but they are purely for cryptos derivatives and nifty derivatives(OI chain handlers). Mail me if you want to know more about it.
